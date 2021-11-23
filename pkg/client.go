@@ -1,4 +1,4 @@
-package models
+package dummylib
 
 import (
 	"net/http"
