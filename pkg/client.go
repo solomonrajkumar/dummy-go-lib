@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	BaseURLV1 = "https://apidev.digitalxc.com/pb-dev/dxc/api"
+	BaseURLV1 = "http://localhost:8080/v1/organisation/accounts"
 )
 
 type Client struct {
